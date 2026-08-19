@@ -1,0 +1,9 @@
+.app-container {
+  font-family: Arial, sans-serif;
+  min-height: 100vh;
+}
+
+.landing-page {
+  text-align: center;
+  padding: 50px 20px;
+}
